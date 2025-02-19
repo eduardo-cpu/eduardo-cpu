@@ -74,13 +74,6 @@ Me chamo Eduardo Santos de Paula, tenho 25 anos e sou natural do Rio Grande do S
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
             /> 
             <img align="left" 
-            alt="Next.js" 
-            title="Next.js" 
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-            /> 
-            <img align="left" 
             alt="Node.js" 
             title="Node.js" 
             width="30px" 
@@ -106,6 +99,13 @@ Me chamo Eduardo Santos de Paula, tenho 25 anos e sou natural do Rio Grande do S
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+            />
+            <img align="left" 
+            alt="MySQL" 
+            title="MySQL" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
             /> 
             <img align="left" 
             alt="Docker" 
