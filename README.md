@@ -12,7 +12,7 @@ Me chamo Eduardo Santos de Paula, tenho 25 anos e sou natural do Rio Grande do S
                 src="https://custom-icon-badges.demolab.com/github/stars/eduardo-cpu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" 
                 /> 
             </a> 
-            <a href="www.linkedin.com/in/eduardosantossm"> 
+            <a href="https://linkedin.com/in/eduardosantossm"> 
             <img alt="Seguidores" 
             title="Me Adicione no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logoColor=white&logo=repo" 
