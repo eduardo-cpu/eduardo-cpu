@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Eduardo Santos de Paula, tenho 25 anos e sou natural do Rio Grande do Sul. Sou formado em Sistemas de Informação pela UFSM, concluida em 2024.
+Me chamo Eduardo Santos de Paula, tenho 26 anos e sou natural do Rio Grande do Sul. Sou formado em Sistemas de Informação pela UFSM, concluida em 2024.
 
 <p align="left"> 
         <a href="https://github.com/eduardo-cpu?tab=repositories&sort=stargazers"> 
