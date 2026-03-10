@@ -136,11 +136,11 @@ Me chamo Eduardo Santos de Paula, tenho 26 anos e sou natural do Rio Grande do S
 <div align="center">
   <img
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=eduardo-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=eduardo-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
   <img
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cpu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cpu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </div>
 
